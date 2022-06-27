@@ -1,0 +1,8 @@
+Cristian Haas Fretes - 2017.1906.052-5
+Jorge Luís Melgarejo - 2020.1907.078-0
+Juan Carlos Conceição de Lima Sales - 2019.1904.029-3
+
+No exercício 1, a requisição pode ser feita através da libcurl. 
+O diretório contém uma demo do funcionamento da api.
+A função curl_setopt é responsável por configurar os parâmetros da requisição. 
+A função curl_exec faz a requisição, retornando os dados resultantes da requisição.
